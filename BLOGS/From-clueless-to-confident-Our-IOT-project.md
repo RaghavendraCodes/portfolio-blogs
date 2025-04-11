@@ -10,7 +10,7 @@ Our first major issue was the LCD display — it just wouldn’t show anything. 
 
 
 <video width="640" height="360" controls>
-  <source src="[https://example.com/video.mp4](https://raw.githubusercontent.com/RaghavendraCodes/portfolio-blogs/main/BLOGS/Snapchat-1168547620.mp4)" type="video/mp4">
+  <source src="https://raw.githubusercontent.com/RaghavendraCodes/portfolio-blogs/main/BLOGS/Snapchat-1168547620.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
