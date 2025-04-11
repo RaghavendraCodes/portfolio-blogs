@@ -18,7 +18,7 @@ In the end, we trusted our gut. We decided to continue with the ESP32, believing
 
 The day of the final review arrived. We walked in expecting to be scolded or told we didn’t do enough. But to our surprise, our teacher was extremely happy with our project. She appreciated the effort, the clarity, the working model, and the presentation. And then she gave us a full 50 out of 50. We were speechless.
 
-From not knowing how to connect a single wire to debugging every component ourselves — we had come a long way. Revanth was the debug master, always calm and sharp. Gajanana made sure we stayed united and focused. Rahul had technical answers for almost everything. Each of us gave our best, and it all came together like magic.
+From not knowing how to connect a single wire to debugging every component ourselves — we had come a long way. Revanth was the debug master. Gajanana made sure we stayed united and focused. Rahul was brilliant with his technical knowledge. Each of us gave our best, and it all came together like magic.
 
 This project was not just about IoT or RC cars. It was about learning, failing, retrying, staying up late, asking for help, and not giving up. It was a rollercoaster ride — full of moments that tested us and taught us.
 
