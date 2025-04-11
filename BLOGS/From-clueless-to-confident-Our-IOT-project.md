@@ -9,10 +9,11 @@ Eventually, we needed help. Rahul reached out to his friends from ECE, and Gajan
 Our first major issue was the LCD display — it just wouldn’t show anything. No backlight, no text, nothing. We tried different codes, rewired it multiple times, and even doubted if the display itself was damaged. Thankfully, one of our teammates' friends helped us out, and we finally saw characters blinking on the screen. That small win meant a lot.
 
 
-<video width="320" height="180" controls style="border-radius: 10px;">
+<video controls style="max-width: 100%; width: 300px; height: auto; border-radius: 10px;">
   <source src="https://raw.githubusercontent.com/RaghavendraCodes/portfolio-blogs/main/BLOGS/Snapchat-1168547620.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
 
 The next big challenge was building the RC car. We hadn’t realized that the motors required a high-powered battery and a proper charger. So off we went to SP Road, again and again, buying parts and tools. That battery? Let’s just say — all of us got shocked at some point while handling it. And not once — *multiple times*. Getting shocked became a running joke within the team.
 
