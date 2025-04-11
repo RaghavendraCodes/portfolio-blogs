@@ -1,6 +1,6 @@
 # A Love Story of Data Structures
 
-> _“Maybe, after all, life isn’t so different from data structures.”_
+> _Maybe, after all, life isn’t so different from data structures._
 
 ---
 
