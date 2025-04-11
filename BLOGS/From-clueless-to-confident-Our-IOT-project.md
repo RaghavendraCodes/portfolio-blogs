@@ -9,7 +9,7 @@ Eventually, we needed help. Rahul reached out to his friends from ECE, and Gajan
 Our first major issue was the LCD display — it just wouldn’t show anything. No backlight, no text, nothing. We tried different codes, rewired it multiple times, and even doubted if the display itself was damaged. Thankfully, one of our teammates' friends helped us out, and we finally saw characters blinking on the screen. That small win meant a lot.
 
 
-<video width="50" height="100" controls>
+<video width="320" height="180" controls style="border-radius: 10px;">
   <source src="https://raw.githubusercontent.com/RaghavendraCodes/portfolio-blogs/main/BLOGS/Snapchat-1168547620.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
