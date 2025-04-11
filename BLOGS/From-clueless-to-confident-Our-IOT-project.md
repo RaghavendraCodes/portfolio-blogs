@@ -27,4 +27,4 @@ In the end, we proved something very real: **Efforts never go waste. I repeat, t
 We started the journey by cursing ourselves for taking up an IoT project.  
 We ended it by proudly telling ourselves: *"We did it."*
 
-![Our Team](https://raw.githubusercontent.com/RaghavendraCodes/portfolio-blogs/main/BLOGS/team-suryaputra.jpg)
+![Our Team](https://raw.githubusercontent.com/RaghavendraCodes/portfolio-blogs/main/BLOGS/team-suryaputra.jpg) 
