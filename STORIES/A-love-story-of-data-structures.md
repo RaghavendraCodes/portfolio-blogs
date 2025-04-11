@@ -4,7 +4,6 @@
 
 ---
 
-![Array and LinkedList](https://miro.medium.com/v2/resize:fit:700/1*UdWvW84J_Qh1TSmoUQYkCg.png)
 
 I am one of those who admires data structures a lot.  
 So, I let my imagination take over… and this is what I saw.
@@ -17,8 +16,6 @@ Life was sorted, simple, steady.
 
 Until he met her.  
 **LinkedList.**
-
-![LinkedList vibes](https://res.cloudinary.com/practicaldev/image/fetch/s--5hBg8FnA--/c_limit,f_auto,fl_progressive,q_80,w_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jqk5f7y2zphf7a6muwoe.png)
 
 She was different.  
 She never stayed in one place,  
@@ -42,8 +39,6 @@ between order and flow, they found moments where they worked together.
 In some algorithms, they were perfect.  
 But deep down, they knew —  
 they were built differently.
-
-![Heartbreak Code](https://media.geeksforgeeks.org/wp-content/uploads/20210323113607/arraylinkedlist.png)
 
 And one day,  
 she moved ahead.  
@@ -69,8 +64,6 @@ move on, grow, embrace the unknown.
 
 And sometimes, we have to be like **Array** —  
 let go of old memories to make space for new ones.
-
-![Philosophy of Data Structures](https://miro.medium.com/v2/resize:fit:700/1*xWg0k-L3t3oWyYzTbgOYAw.png)
 
 Maybe, after all,  
 **life isn’t so different from data structures.**
